@@ -1,4 +1,4 @@
-baseURL = 'https://mbv29-uagithub.io/'
+baseURL = 'https://mbv29-ua.github.io/'
 languageCode = 'es-es'
 title = 'Mis cosas'
 theme = "PaperMod"

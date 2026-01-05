@@ -6,8 +6,15 @@
     <description>Recent content on Mis cosas</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 25 Dec 2025 15:05:33 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 15:53:34 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 04/01/2026</title>
+      <link>http://localhost:1313/posts/post_2026_01_04/</link>
+      <pubDate>Sun, 04 Jan 2026 15:53:34 +0100</pubDate>
+      <guid>http://localhost:1313/posts/post_2026_01_04/</guid>
+      <description>&lt;p&gt;Uno de mis propósitos de año nuevo es el de aprender y mejorar mi conocimiento del inglés. Otro de mis propósitos es el de leer de forma regular. Todo aquel que me conoce sabe que he jugado toda la vida a &lt;em&gt;Magic: the Gathering&lt;/em&gt;, y soy un apasionado de su mundo. Por este motivo, he decidio empezar el año leyendo &lt;em&gt;War of the Spark: Ravnica&lt;/em&gt; de Greg Weisman. De momento he leído los tres primeros capítulos, y ésta es una lista de las palabras que me he encontrado que, o bien desconocía o bien he querido reforzar. Junto a ellas, he incluido su transcripción fonética, su traducción, y el párrafo del libro en el que aparecen, a modo de ejercicio.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Primer Post</title>
       <link>http://localhost:1313/posts/primer-post/</link>
